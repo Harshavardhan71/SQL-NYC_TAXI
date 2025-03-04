@@ -141,11 +141,11 @@ SELECT DISTINCT PAYMENT_TYPE FROM TAXIDATA;
 
 ## Images
 The following images illustrate the dataset and queries used:
-1. ![Taxi Trip Data](1taxitripdata.png)
-2. ![Taxi Data Schema](2taxidata.png)
-3. ![Query 1: Total Trips](3query1.png)
-4. ![Query 2: Total Revenue](4query2.png)
-5. ![Query 3: Average Trip Amount](5query3.png)
+1. ![Taxi Trip Data](1 taxi trip data.png)
+2. ![Taxi Data Schema](2 taxi data.png)
+3. ![Query 1: Total Trips](3 query 1.png)
+4. ![Query 2: Total Revenue](4 query 2.png)
+5. ![Query 3: Average Trip Amount](5 query 3.png)
 
 ## Conclusion
 This SQL case study provides valuable insights into NYC taxi trips, including revenue, trip distances, payment types, and peak revenue hours. By analyzing this data, we can better understand taxi usage trends and fare structures.
