@@ -139,13 +139,17 @@ SELECT AVG(TRIP_DISTANCE) AS AVERAGE_DISTANCE FROM TAXIDATA;
 SELECT DISTINCT PAYMENT_TYPE FROM TAXIDATA;
 ```
 
+
+
+
+
 ## Images
-The following images illustrate the dataset and queries used:
-1. ![Taxi Trip Data](1taxitripdata.png)
-2. ![Taxi Data Schema](2taxidata.png)
-3. ![Query 1: Total Trips](3query1.png)
-4. ![Query 2: Total Revenue](4query2.png)
-5. ![Query 3: Average Trip Amount](5query3.png)
+## NYC Taxi Trip Data Analysis
+1. **[Taxi Trip Data](https://github.com/Harshavardhan71/SQL-NYC_TAXI/blob/main/results%20sql%20pic/1%20taxi%20trip%20data.png)**
+2. **[Taxi Data Schema](https://github.com/Harshavardhan71/SQL-NYC_TAXI/blob/main/results%20sql%20pic/2%20taxi%20data.png)**
+3. **[Query 1: Total Trips](https://github.com/Harshavardhan71/SQL-NYC_TAXI/blob/main/results%20sql%20pic/3%20query1.png)**
+4. **[Query 2: Total Revenue](https://github.com/Harshavardhan71/SQL-NYC_TAXI/blob/main/results%20sql%20pic/4%20query2.png)**
+5. **[Query 3: Average Trip Amount](https://github.com/Harshavardhan71/SQL-NYC_TAXI/blob/main/results%20sql%20pic/5%20query3.png)**
 
 ## Conclusion
 This SQL case study provides valuable insights into NYC taxi trips, including revenue, trip distances, payment types, and peak revenue hours. By analyzing this data, we can better understand taxi usage trends and fare structures.
